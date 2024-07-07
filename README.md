@@ -7,7 +7,8 @@ The Job Portal is a dynamic online platform developed using HTML, CSS, JavaScrip
 # Features
 User Authentication:
 
-Login and Logout Function: Users and recruiters can securely log in and log out, ensuring that personal and professional data is protected.
+Login and Logout Function: Users and recruiters can securely log in and log out, ensuring that personal and professional data is protected.<img width="960" alt="1" src="https://github.com/SJaditya/Job-Portal-on-AWS/assets/100435650/9e9328d0-050e-49de-b6a6-26ba727665c1">
+
 Job Listings:
 
 View Jobs: Job seekers can browse available job listings, view detailed job descriptions, and identify opportunities that match their skills and interests.
@@ -19,7 +20,8 @@ Recruiter Access:
 
 Admin Login: Recruiters have a dedicated admin login that allows them to access the backend.
 
-View Applications: Recruiters can view and manage applicant information stored in a MySQL database, streamlining the hiring process.
+View Applications: Recruiters can view and manage applicant information stored in a MySQL database, streamlining the hiring process.<img width="960" alt="10" src="https://github.com/SJaditya/Job-Portal-on-AWS/assets/100435650/27cbb40f-e212-4594-958d-d8e12bd98cb1">
+
 
 # Technical Details
 Frontend: HTML, CSS, and JavaScript provide a responsive and intuitive user interface.

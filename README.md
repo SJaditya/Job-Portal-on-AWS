@@ -24,7 +24,8 @@ View Applications: Recruiters can view and manage applicant information stored i
 
 
 # Technical Details
-Frontend: HTML, CSS, and JavaScript provide a responsive and intuitive user interface.
+Frontend: HTML, CSS, and JavaScript provide a responsive and intuitive user interface.![home page job portal](https://github.com/user-attachments/assets/ff30c8c1-6924-48aa-af87-766ca7c300c2)
+
 
 Backend: PHP handles server-side logic and interactions between the frontend and the database.
 

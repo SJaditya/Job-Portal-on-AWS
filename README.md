@@ -33,7 +33,8 @@ Database: MySQL is used for robust and efficient data storage and retrieval.
 
 Hosting: AWS ensures reliable and scalable cloud hosting for the application.
 
-Security: Secure login mechanisms and data protection protocols are implemented to safeguard user and recruiter information.
+Security: Secure login mechanisms and data protection protocols are implemented to safeguard user and recruiter information.![about us ](https://github.com/user-attachments/assets/f8bbc543-a26c-41ae-a738-8893c1e006f4)
+
 
 # Conclusion
 This Job Portal offers an efficient and seamless experience for both job seekers and recruiters. By leveraging HTML, CSS, JavaScript, PHP, and MySQL, the platform provides a robust solution for managing job applications and candidate information. Hosted on AWS, it guarantees scalability, reliability, and security, making it a valuable tool for modern recruitment.
